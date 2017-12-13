@@ -1,5 +1,7 @@
 #Hello World
+
 ##This is a markdown file
-#### Vinícius Medeiros de Lima
+
+#### VinÃ­cius Medeiros de Lima
 #### Data Scientists Tools
 #### Course Project
